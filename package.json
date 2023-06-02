@@ -1,6 +1,6 @@
 {
   "name": "@yoshi2no/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "yoshi2no's personal Prettier config",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "devDependencies": {
+  "dependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.0.2"
   }
 }
