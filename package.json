@@ -1,0 +1,12 @@
+{
+  "name": "@yoshi2no/prettier-config",
+  "version": "1.0.0",
+  "description": "yoshi2no's personal Prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:yoshi2no/prettier-config.git",
+  "author": "Hikaru Yoshino",
+  "license": "MIT"
+}
