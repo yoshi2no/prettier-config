@@ -8,5 +8,8 @@
   },
   "repository": "git@github.com:yoshi2no/prettier-config.git",
   "author": "Hikaru Yoshino",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
